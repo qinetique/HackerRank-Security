@@ -12,3 +12,8 @@
 | Cryptography             |  [PRNG Sequence Guessing](https://www.hackerrank.com/challenges/prng-sequence-guessing?isFullScreen=true)                                             | Medium           | [**Solution.py**](https://github.com/qinetique/HackerRank-Security/blob/main/Cryptography/PRNG%20Sequence%20Guessing.py)                     |
 | Cryptography             |  [Keyword Transposition Cipher](https://www.hackerrank.com/challenges/keyword-transposition-cipher?isFullScreen=true)                                 | Easy             | [**Solution.py**](https://github.com/qinetique/HackerRank-Security/blob/main/Cryptography/Keyword%20Transposition%20Cipher.py)               |
 | Cryptography             |  [Basic Cryptanalysis](https://www.hackerrank.com/challenges/basic-cryptanalysis?isFullScreen=true)                                                   | Hard             | [**Solution.py**](https://github.com/qinetique/HackerRank-Security/blob/main/Cryptography/Basic%20Cryptanalysis.py)                          |
+
+
+``
+git clone https://github.com/qinetique/HackerRank-Security.git
+``
